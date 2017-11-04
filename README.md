@@ -20,6 +20,8 @@ WINDOWS NOTES
   not work on DOS. Substitute (e.g.) "{\"asset1\":100}" for '{"asset1":100}'
 * The default data directory is %APPDATA%\MultiChain instead of ~/.multichain
 
+- [Changelog](./change-log)
+
 
 ##### Copyright (c) Coin Sciences Ltd - www.multichain.com
 
