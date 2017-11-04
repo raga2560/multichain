@@ -19,10 +19,11 @@ WINDOWS NOTES
 * The online documentation uses Linux quoting on the command line which will
   not work on DOS. Substitute (e.g.) "{\"asset1\":100}" for '{"asset1":100}'
 * The default data directory is %APPDATA%\MultiChain instead of ~/.multichain
+---------------------------------------------------------------------------
 
 - [Change-log](./change-log)
 
-
+------------------------------------------------------------------
 ##### Copyright (c) Coin Sciences Ltd - www.multichain.com
 
 ##### Distributed under the GPLv3 software license,
